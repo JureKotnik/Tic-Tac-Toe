@@ -1,3 +1,4 @@
+
 const { app, BrowserWindow } = require('electron')
 
 require('electron-debug')({
@@ -6,10 +7,10 @@ require('electron-debug')({
 
 function createWindow() {
     let win = new BrowserWindow({
-        width: 400,
-        height: 500,
+        width: 600,
+        height: 600,
         resizable: false,
-        icon: 'icon.pngtic.jpg',
+        icon: 'tic.jpg',
         webPreferences: {
             nodeIntegration: true
         }

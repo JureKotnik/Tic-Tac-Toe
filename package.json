@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "node main.js",
-    "start":"electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JureKotnik/Tic-Tac-Toe#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "electron": "^7.1.9"
+    "electron": "^7.1.9",
+    "electron-debug": "^3.0.1"
   }
 }
