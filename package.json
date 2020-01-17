@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Easy tic-tac-toe",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JureKotnik/Tic-Tac-Toe.git"
+  },
+  "author": "Jure Kotnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JureKotnik/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/JureKotnik/Tic-Tac-Toe#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "electron": "^7.1.9"
+  }
+}
