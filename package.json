@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JureKotnik/Tic-Tac-Toe#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "electron": "^7.1.9",
+    "electron": "^15.5.5",
     "electron-debug": "^3.0.1"
   }
 }
